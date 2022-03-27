@@ -1,4 +1,5 @@
 #!/bin/bash
+# run ---> ./pushToGit.sh 
 git add .
-git commit -m "Pratice Push"
+git commit -m "Description"
 git push
