@@ -1,3 +1,5 @@
+# Yo what up
+# sshhs
 width = input('Enter TIE width: \n')
 arms = '/' * int(width)
 arms2 = "\\" * int(width)
